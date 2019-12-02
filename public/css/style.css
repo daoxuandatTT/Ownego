@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+}
+
+.main {
+    background: mediumblue;
+    height: 665px;
+    width: 20%;
+    float: left;
+}
+
+.sidebar {
+    height: 665px;
+    width: 80%;
+    float: left;
+}
+
+.dropdown {
+    margin: 30px;
+    float: left;
+}
+
+.btn {
+    background: blue;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+}
+
+.sortBy {
+    margin: auto;
+    padding: 30px;
+    position: absolute;
+    right: 200px;
+    float: right;
+}
+
+.filterName {
+    margin: auto;
+    padding: 30px;
+    position: absolute;
+    right: 50px;
+    float: right;
+}
+
+.btn-secondary {
+    background: lightslategray;
+}
+
+.checkBox {
+    padding: 100px;
+}
+
+.price {
+    margin: 40px;
+
+}
+
